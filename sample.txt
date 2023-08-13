@@ -1,19 +1,2 @@
-<<<<<<< HEAD
-hello 
-hello 
-hello 
-hello 
-=======
-hello
-hello
+test 123
 
-hello
-hello
-hello
-hello
-hello
-
-hello
-hello
-hello
->>>>>>> 414d1aa8db39f2b029a4205e67a5d812d6e5bfd2
